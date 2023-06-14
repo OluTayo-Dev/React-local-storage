@@ -1,16 +1,18 @@
 
-import React, { useState } from "react";
-import Home from "./components/Home";
-import Data from "./components/Data";
+// import Home from "./components/Home";
+// import Data from "./components/Data";
+// import MyComponents from "./components/MyComponent";
+//import Api from "./components/Api";
+import Dictionary from "./components/Dictionary";
 
 
 function App() {
   return (
     <div>
       
-      <Home />
       
-    
+      <Dictionary />
+
     </div>
 
   )
